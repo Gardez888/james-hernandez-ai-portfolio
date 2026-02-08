@@ -1,5 +1,6 @@
 # james-hernandez-ai-portfolio 
 **Full Resume**: [James Hernandez Resume](Resume-James-Hernandez.md) (or whatever filename)
+
 Built by James Hernandez – Warehouse data specialist (15+ years accuracy/resolution) self-studying AI/ML for entry-level remote annotation/evaluation roles.
 Portfolio of analytical writing and evaluation samples demonstrating skills in detail-oriented observation, clear communication, and pattern recognition for AI data annotation/training roles.
 Detail-oriented data specialist transitioning to AI data annotation, evaluation, and training roles.
