@@ -1,4 +1,5 @@
 # james-hernandez-ai-portfolio
+Built by James Hernandez – Warehouse data specialist (15+ years accuracy/resolution) self-studying AI/ML for entry-level remote annotation/evaluation roles.
 Portfolio of analytical writing and evaluation samples demonstrating skills in detail-oriented observation, clear communication, and pattern recognition for AI data annotation/training roles.
 Detail-oriented data specialist transitioning to AI data annotation, evaluation, and training roles.
 
@@ -17,3 +18,4 @@ Detailed breakdown of legendary wrestling announcer Gordon Solie's vocal deliver
 - Objective evaluation of communication effectiveness
 
 This sample highlights skills directly applicable to evaluating AI-generated text for nuance, coherence, tone consistency, and guideline adherence in RLHF/annotation tasks.
+**File**: [View full Gordon Solie Analysis (PObyJames.txt)](PObyJames.txt)
