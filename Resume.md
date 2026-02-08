@@ -1,6 +1,6 @@
 # James Hernandez
 Charlotte, NC Area  
-Cell: (856) 882-9042 | simulatorjames@gmail.com
+Cell: (803)601-0177 | simulatorjames@gmail.com
 
 ## Summary
 Detail-oriented data integrity specialist with over 15 years of experience in data management, problem-solving, and team leadership. Seeking to leverage analytical skills and passion for technology in AI training, annotation, or evaluation roles. Self-studying Python, AI/ML basics (Coursera/edX).
